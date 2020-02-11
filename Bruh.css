@@ -1,11 +1,14 @@
 body {
-  background-color: rebeccapurple;
+  background-color: purple;
   text-align: left;
   border-style: double;
   border-width: 9px;
   border-radius: 15px;
   float: right;
-   
+  margin-right: 400px;
+}
+head{
+  text-align: center;
 }
 p {
   color: whitesmoke;
@@ -14,7 +17,7 @@ p {
 h1 {
   font-weight: bold;
   font-family: monospace;
-  font-size: 35px;
+  font-size: 68px;
   text-decoration: underline 
 }
 
