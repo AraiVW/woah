@@ -7,9 +7,6 @@ body {
   float: right;
   margin-right: 400px;
 }
-head{
-  text-align: center;
-}
 p {
   color: whitesmoke;
   margin:13px;
@@ -18,7 +15,8 @@ h1 {
   font-weight: bold;
   font-family: monospace;
   font-size: 68px;
-  text-decoration: underline 
+  text-decoration: underline
+  text-align:center;
 }
 
 }
