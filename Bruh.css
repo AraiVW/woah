@@ -1,0 +1,30 @@
+body {
+  background-color: rebeccapurple;
+  text-align: left;
+  border-style: double;
+  border-width: 9px;
+  border-radius: 15px;
+  float: right;
+   
+}
+p {
+  color: whitesmoke;
+  margin:13px;
+}
+h1 {
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 35px;
+  text-decoration: underline 
+}
+
+}
+img{
+  float: right;
+  width: 256px;
+  margin: 14px;
+  border-color: darkblue;
+  border-width: 9px;
+  border-style: dotted;
+  border-radius: 13px;
+}
