@@ -5,7 +5,7 @@ body {
   border-width: 9px;
   border-radius: 15px;
   float: right;
-  margin-right: 400px;
+  margin-right: 100px;
 }
 p {
   color: whitesmoke;
@@ -15,8 +15,7 @@ h1 {
   font-weight: bold;
   font-family: monospace;
   font-size: 68px;
-  text-decoration: underline
-  text-align:center;
+  text-decoration: underline;
 }
 
 }
