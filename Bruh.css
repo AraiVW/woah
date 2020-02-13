@@ -8,8 +8,7 @@ body {
   margin-right: 50px;
 }
 h3 {
-  margin:13px;
-  margin-right: 100px;
+  margin-right: 200px;
 }
 h1 {
   font-weight: bold;
@@ -28,4 +27,5 @@ img{
   border-width: 9px;
   border-style: dotted;
   border-radius: 13px;
+  margin-left: 100px;
 }
