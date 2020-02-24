@@ -20,12 +20,13 @@ h1 {
 }
 
 }
-img{
-  width: 236px;
-  margin: 14px;
-  border-color: darkblue;
-  border-width: 9px;
-  border-style: dotted;
+.bro{
+  width: 6px;
+  margin: 4px;
   border-radius: 13px;
-  margin-left: 400px;
+  margin-left: 800px;
+}
+li{
+  margin-right: 300px;
+  margin-left: 100px;
 }
