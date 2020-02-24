@@ -18,11 +18,10 @@ h1 {
   text-decoration: underline;
   text-align: center;
 }
-.bro{
-  width: 6px;
+.bro {
   margin: 4px;
   border-radius: 13px;
-  margin-left: 800px;
+  margin-left: 100px;
 }
 li{
   margin-right: 300px;
