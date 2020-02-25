@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(6, 143, 212);
+  text-align: left;
+  border-style: double;
+  border-width: 9px;
+  border-radius: 15px;
+  float: right;
+  margin-right: 50px;
+}
+h3 {
+  margin-left: 30px;
+}
+h1 {
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 68px;
+  text-decoration: underline;
+  text-align: center;
+}
+.bro {
+  margin: 4px;
+  border-radius: 13px;
+  margin-left: 300px;
+}
+.naw{
+  margin-left: 30px;
+  margin-right: 150px;
+}
